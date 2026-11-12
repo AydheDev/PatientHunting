@@ -1,0 +1,9 @@
+artifacts/
+**/bin/
+**/obj/
+1.7/Assemblies/*.dll
+1.7/Assemblies/*.pdb
+1.7/Assemblies/*.json
+# Keep the tested mod build available to players downloading the repository.
+!1.7/Assemblies/PatientHunting.dll
+!1.7/Assemblies/PatientHunting.build.json

@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "builtUtc": "2026-11-12T13:44:28.8071000+00:00",
+  "rimworld": "1.7.5005 rev1082",
+  "binarySha256": "21AACE16438B0E26DB508D0CA35C95D9705E251562A133A0C57B1511587D439D",
+  "files": [
+    {
+      "sha256": "20DB6B59F5BCEE78F37FDAAC8505CAB910F4AE4484A84CF27B1420BFEB715F58",
+      "path": "About/About.xml"
+    },
+    {
+      "sha256": "78DFFFAF749EE9B90B2CFE7DC2F8334BB1CA94D687678EF647C91FC14BB7EFFF",
+      "path": "build.ps1"
+    },
+    {
+      "sha256": "A8CDC8F7D0ACDA43A9E26D097EBF6C1509ABA74A7081D07310E9C23685A9CBB8",
+      "path": "Source/HuntingRules.cs"
+    },
+    {
+      "sha256": "64F061895C36CE2D38E55CBF1ADE33C4E937FD7CA3414D41F1DF35FECE9DB739",
+      "path": "Source/HuntPolicy.cs"
+    },
+    {
+      "sha256": "8ED74D973FABE16616BC0D8E8CF36D8D2004BC32683E5E2650B24D8F7E681E09",
+      "path": "Source/Patches.cs"
+    },
+    {
+      "sha256": "ED3CEA0B5EE6461FE3EC67A81D25B3CE65F572902480261D4F5EAC6BCCE9A96D",
+      "path": "Source/PatientHunting.csproj"
+    },
+    {
+      "sha256": "EEBFB1435C9DC573F877B159A52758726BBF51AEE3E30B9F09C996484C30E235",
+      "path": "Source/PatientHuntingMod.cs"
+    }
+  ]
+}

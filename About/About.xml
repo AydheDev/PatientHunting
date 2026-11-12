@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Patient Hunting</name>
+  <author>AydheDev</author>
+  <packageId>aydhe.patienthunting</packageId>
+  <modVersion>0.1.0</modVersion>
+  <supportedVersions><li>1.7</li></supportedVersions>
+  <description>Hunters stop shooting animals whose estimated time to bleed out is less than 12 hours. They move on to other work, leaving the hunt designation in place, and can return to finish downed prey normally. The threshold is adjustable in mod settings. Uses RimWorld's blood-loss estimate. Only affects player hunting jobs; drafted attacks and other combat jobs are unchanged. Requires Harmony.</description>
+  <modDependencies>
+    <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter><li>brrainz.harmony</li><li>ferny.ProgressionAmmunition</li></loadAfter>
+</ModMetaData>

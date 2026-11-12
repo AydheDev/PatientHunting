@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PH_Enabled>Enable patient hunting</PH_Enabled>
+  <PH_Threshold>Stop shooting below {0} hours until death from blood loss</PH_Threshold>
+  <PH_Explanation>Hunters leave standing prey alone when its blood-loss estimate falls below this limit, and move on to other work. The hunt designation remains. Once the animal is downed, hunters can finish it normally. Animals that are dangerous to finish in melee are left to bleed out. Hunting resumes if bleeding slows or stops. Drafted attacks and other combat jobs are unaffected.</PH_Explanation>
+  <PH_Reset>Restore defaults (12 hours)</PH_Reset>
+  <PH_WaitingForPrey>Waiting for bleeding prey to become downed</PH_WaitingForPrey>
+</LanguageData>
